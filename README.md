@@ -5,13 +5,13 @@
 
 - 🌱 I’m currently learning **Three.js**
 
-- 👨‍💻 Have a look at my website! [lucamueller.me](lucamueller.me)
+- 👨‍💻 Have a look at my website! [LucaMueller.me](https://lucamueller.me)
 
 - 💬 Ask me about **anything really!**
 
 - 📫 How to reach me **lucamueller32@gmail.com**
 
-- 📄 Know about my experiences [https://lucamueller.me/resume.pdf](https://lucamueller.me/resume.pdf)
+- 📄 Know about my experiences [Resume](https://lucamueller.me/resume.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
