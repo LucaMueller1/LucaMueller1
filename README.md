@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Luca</h1>
-<h3 align="center">A passionate Software Engineering student working at IBM</h3>
+<h3 align="center">A passionate Software Engineer working at Palantir</h3>
 
 - 🔭 I’m currently working on [a Minecraft Three.js Renderer](https://github.com/LucaMueller1/minecraft3Dwebapp)
 
